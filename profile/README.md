@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Paranexum/.github/refs/heads/main/static/banner.png)
+![](https://raw.githubusercontent.com/Paranexum/.github/refs/heads/main/static/banner1.png)
 
 # Paranexum - Reimagined Advertising Powered by Artificial Intelligence
 
