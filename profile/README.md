@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Paranexum/.github/refs/heads/main/static/banner.png)
+
 # Paranexum - Reimagined Advertising Powered by Artificial Intelligence
 
 Welcome to the **Paranexum GitHub Organization**! Here, you'll find all resources, documentation, and projects related to **Paranexum**, the AI-driven platform designed to facilitate powerful advertising partnerships between complementary businesses.
